@@ -1,0 +1,32 @@
+{
+    "city": "Pokhara",
+    "id": 2358,
+    "publishers": {
+        "1": {
+            "name": "Gorkha Restaurant",
+            "address": "RaniPauwa 11, Pokhara",
+            "url": "http://www.gorkhaCuisine.com",
+            "advertisers": {
+                "101": {
+                    "name": "Taxi Service",
+                    "url": "http://www.taxiService.com",
+                    "priceOffered": 100.00
+                }
+
+            }
+        },
+        "2": {
+            "name": "Glacier Perk",
+            "address": "Lakeside 22, Pokhara",
+            "url": "http://www.glacierPerk.com",
+            "advertisers": {
+                "201": {
+                    "name": "Disco Heaven",
+                    "url": "http://www.discoHeaven.com",
+                    "priceOffered":150.00
+                }
+
+            }
+        }
+    }
+}

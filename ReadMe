@@ -1,0 +1,5 @@
+* Json file is located in data folder which consists of publisher information and their respective advertisers.
+* Entities for advertisers and publishers are defined in Entity Folder.
+* Json file is read and the values from the file are passed to the corresponding classes from the entity namespace.
+* using dependency injection it is decided whether to display publishers unordered or sorted by the advertiser's name
+* or sorted by price offered by the advertisers.
