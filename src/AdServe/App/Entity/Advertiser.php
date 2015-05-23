@@ -10,19 +10,19 @@ class Advertiser
      * Name of the advertiser
      * @var string
      */
-    public $name;
+    private $name;
 
     /**
      * Url of the advertiser's homepage
      *
      * @var string
      */
-    public $homepage;
+    private $homepage;
 
     /**
      * price offered by the advertiser
      * @var float
      */
-    public $priceOffered;
+    private $priceOffered;
 
 } 

@@ -12,27 +12,27 @@ class Publisher
      *
      * @var string
      */
-    public $name;
+    private $name;
 
     /**
      * Street address of the publisher.
      *
      * @var string
      */
-    public $adr;
+    private $adr;
 
     /**
      * web url of the publisher.
      * @var string
      */
 
-    public $url;
+    private $url;
 
     /**
      * Unsorted list of publisher.
      *
      * @var Advertiser[]
      */
-    public $advertisers = [];
+    private $advertisers = [];
 
 } 
